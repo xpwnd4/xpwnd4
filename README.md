@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mr. M | xpwnd4
 
-<!--
-**xpwnd4/xpwnd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity practitioner focused on malware analysis, DFIR, red teaming, and security research.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Malware Analysis
+- DFIR
+- Red Teaming
+- Penetration Testing
+- Security Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- Technical writeups
+- Security projects
+- Malware analysis workflows
+- Research notes and learning resources
+
+## Featured Work
+- Maldoc Portal
+- GeoPy
+- Upcoming malware analysis and DFIR writeups
+
+## Current Goal
+Building a GitHub space for writeups, projects, and informational cybersecurity content.
